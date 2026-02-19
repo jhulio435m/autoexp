@@ -1,0 +1,2270 @@
+{
+  "A - ESTUDIOS - Garantizar las condiciones útiles a la inversión": [
+    {
+      "id": "1",
+      "nombre": "Revisión del perfil: pre-inversión que incluya el estudio de estimación de riesgos, viabilidad e identificación de los componentes",
+      "normativas": {
+        "EETT  Edificación": "Directiva General  del Invierte",
+        "EETT  Electrificación": "Directiva General  del Invierte",
+        "EETT  Saneamiento": "Directiva General  del Invierte",
+        "EETT  Transportes": "Directiva General  del Invierte"
+      }
+    },
+    {
+      "id": "2",
+      "nombre": "Estudio de Riesgos ante Desastres",
+      "normativas": {
+        "EETT  Edificación": "Ley 29664",
+        "EETT  Electrificación": "Ley 29664",
+        "EETT  Saneamiento": "Ley 29664",
+        "EETT  Transportes": "Ley 29664"
+      }
+    },
+    {
+      "id": "3",
+      "nombre": "Gestión de riesgos en la ejecución de obra",
+      "normativas": {
+        "EETT  Edificación": "Directiva N°012-2017-OSCE/CD",
+        "EETT  Electrificación": "Directiva N°012-2017-OSCE/CD",
+        "EETT  Saneamiento": "Directiva N°012-2017-OSCE/CD",
+        "EETT  Transportes": "Directiva N°012-2017-OSCE/CD"
+      }
+    },
+    {
+      "id": "4",
+      "nombre": "Analisis para el dimensionamiento de la necesidad (Estudio de demanda en los colegios, nivel de atención en salud, disponibilidad hidrica y dimensionamiento del proyecto)",
+      "normativas": {
+        "EETT  Edificación": "Directivas sectoriales",
+        "EETT  Electrificación": "Directivas sectoriales",
+        "EETT  Saneamiento": "Directivas sectoriales",
+        "EETT  Transportes": "Directivas sectoriales"
+      }
+    },
+    {
+      "id": "5",
+      "nombre": "Predios: Actas de sesión de terrenos, pases, servidumbres u otro documento que muestre la aceptación de los propietarios (Verificar con SUNARP, COFOPRI, DISAFIL,…..)",
+      "normativas": {
+        "EETT  Edificación": "Directiva General  del Invierte, ultima modificación",
+        "EETT  Electrificación": "Directiva General  del Invierte, ultima modificación",
+        "EETT  Saneamiento": "Directiva General  del Invierte, ultima modificación",
+        "EETT  Transportes": "Directiva General  del Invierte, ultima modificación"
+      }
+    },
+    {
+      "id": "6",
+      "nombre": "Estudio de Topografía",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  Reglamento Nacional de Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": "Normas Peruana de Carreteras Ver TDR de ET   Provias Descentralizado"
+      }
+    },
+    {
+      "id": "7",
+      "nombre": "Estudio de Suelos",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "8",
+      "nombre": "Estudio Geológico",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "9",
+      "nombre": "Estudios Hidrológicos de la zona",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "10",
+      "nombre": "Estudios Hidrológicos de la zona (si la captación del agua es por pozos tubulares)",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "11",
+      "nombre": "Estudio de Transito",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "12",
+      "nombre": "Infraestructura vial existente",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "13",
+      "nombre": "EIA o Programa de Adecuación de Manejo Ambiental (PAMA, DIA, etc)",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "14",
+      "nombre": "Estudios especializados adicionales para modificación de proyectos anteriores: demolición, diamantinas, reforzamiento con fibra de carbono, etc.",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "15",
+      "nombre": "Panel Fotográfico",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    }
+  ],
+  "B - GENERALES": [
+    {
+      "id": "16",
+      "nombre": "Llenado del Formato N°08 - Excel actualizado (según actualizaciones de ET)",
+      "normativas": {
+        "EETT  Edificación": "Directiva General  del Invierte. Instructivo del F-8",
+        "EETT  Electrificación": "Directiva General  del Invierte. Instructivo del F-8",
+        "EETT  Saneamiento": "Directiva General  del Invierte. Instructivo del F-8",
+        "EETT  Transportes": "Directiva General  del Invierte. Instructivo del F-8"
+      }
+    },
+    {
+      "id": "17",
+      "nombre": "Resumen Ejecutivo:",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "18",
+      "nombre": "Ficha Técnica (Datos relevantes del proyecto)",
+      "normativas": {
+        "EETT  Edificación": "Reglamento Nacional de Edificación. RM 084-2019- MINEDU,  criterios de elaboración de ET",
+        "EETT  Electrificación": "Codigo Nacional de Electriciddad. Reglamento Nacional de Electricidad. Sistema de Distribución Sistema de Utilización",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": "Normas Peruana de Carreteras Ver TDR de ET   Provias Descentralizado"
+      }
+    },
+    {
+      "id": "19",
+      "nombre": "Memoria Descriptiva",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "20",
+      "nombre": "Memoria de Cálculo",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "21",
+      "nombre": "Especificaciones técnicas",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "22",
+      "nombre": "Plan de Vigilancia y Monitoreo para evitar la propagación del COVID-19",
+      "normativas": {
+        "EETT  Edificación": "RM 448-2020 MINSA y disposiciones sectoriales : MTC, VIVIENDA, MINSA",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "23",
+      "nombre": "Plan de Seguridad y Salud en el Trabajo (Considera lo expuesto en el Plan de Vigilancia y Monitoreo para evitar la propagación del COVI-19)",
+      "normativas": {
+        "EETT  Edificación": "El DS 011-2019-TR, Decreto Supremo que aprueba el Reglamento de Seguridad y Salud en el Trabajo para el Sector Construcción,",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    }
+  ],
+  "C - INGENIERIA Y DETALLE (Especialidades de ingenierías varias y detalles según requisitos del proyecto)": [
+    {
+      "id": "24",
+      "nombre": "Planos Generales (ajustado a las normas técnicas de educación o salud según corresponda)",
+      "normativas": {
+        "EETT  Edificación": "Reglamento Nacional de Edificación. RM 084-2019- MINEDU,  criterios de elaboración de ET",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": "Normas Peruana de Carreteras Ver TDR de ET   Provias Descentralizado"
+      }
+    },
+    {
+      "id": "25",
+      "nombre": "Plano Clave: Plano de ubicación y localización, con coordenadas UTM",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "26",
+      "nombre": "Plano topográfico",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "27",
+      "nombre": "Plano del ámbito de influencia del proyecto, delimitado",
+      "normativas": {
+        "EETT  Edificación": "No aplica",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "28",
+      "nombre": "Plano Trazado y Lotización Aprobado por el GR/GL correspondiente",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "29",
+      "nombre": "Planos de Especialidad",
+      "normativas": {
+        "EETT  Edificación": "Reglamento Nacional de Edificación. RM 084-2019- MINEDU,  criterios de elaboración de ET,  Normas del PRONIS para establecimientos de SALUD",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": "Norma Peruana de Carreteras"
+      }
+    },
+    {
+      "id": "30",
+      "nombre": "Plano de Arquitectura",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "31",
+      "nombre": "Plano de Planta general (incluye ubicación con relación al perimétrico)",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "32",
+      "nombre": "Plano de Distribución",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "33",
+      "nombre": "Plano de Cortes y elevaciones",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "34",
+      "nombre": "Plano de Coberturas",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "35",
+      "nombre": "Plano de Distribución actual de corresponder",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "36",
+      "nombre": "Plano de carpintería de Madera o Metálica",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "37",
+      "nombre": "Plano de Cuadro de Acabados",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "38",
+      "nombre": "Plano de detalles en general",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "39",
+      "nombre": "Plano de las obras de arte o estructuras especiales",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "40",
+      "nombre": "Plano de Estructuras",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "41",
+      "nombre": "Planos de Cimentación (Zapatas, Cimientos sobre cimientos y otros)",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "42",
+      "nombre": "Planos de vigas y columnas",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "43",
+      "nombre": "Plano de losas aligeradas  (de corresponder)",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "44",
+      "nombre": "Planos de Instalaciones Eléctricas",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "45",
+      "nombre": "Plano del sistema de agua",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "46",
+      "nombre": "Plano del sistema de desagüe sistema de   tratamiento",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "47",
+      "nombre": "Plano de sistema de evacuación pluvial",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "48",
+      "nombre": "Plano de paisajismo o impacto ambiental",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad. Reglamento Nacional de Electricidad. Sistema de Distribución Sistema de Utilización",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "49",
+      "nombre": "Plano de obras de caseta para generadores de corriente",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "50",
+      "nombre": "Planos de Estación y Sub Estación",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "51",
+      "nombre": "Plano de ejes de las redes secundarias",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "52",
+      "nombre": "Plano de postes, torres, detalles y estructuras según escala conveniente",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "53",
+      "nombre": "Planos de detalles de retenidas y anclaje según escala conveniente",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "54",
+      "nombre": "Planos de detalles de pastorales y luminarias según escala conveniente",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "55",
+      "nombre": "Plano de desvío o tránsito temporal en caso de vía de uso",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": "Normas Peruana de Carreteras Ver TDR de ET   Provias Descentralizado"
+      }
+    },
+    {
+      "id": "56",
+      "nombre": "Plano de carreteras",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "57",
+      "nombre": "Plano de depósitos de materiales provenientes de las excavaciones",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "58",
+      "nombre": "Planos de secciones transversales",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "59",
+      "nombre": "Plano de Estructura de pavimentos y levantamiento de fundación",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "60",
+      "nombre": "Plano de Estructura de drenaje y alcantarillado",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "61",
+      "nombre": "Plano de señalización",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "62",
+      "nombre": "Sistema de Agua Potable",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "63",
+      "nombre": "Planta general (incluye ubicación con relación al perimétrico)",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "64",
+      "nombre": "Plano Clave de Sistema de Agua Potable",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "65",
+      "nombre": "Planos de componentes primarios (Línea de Conducción, Línea de Abastecimiento, Línea de impulsión:",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "66",
+      "nombre": "Planos de planta y perfil; Captación,  Planta de Tratamiento de Agua Potable (PTAP)",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "67",
+      "nombre": "Plano de Redes de Agua Potable",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "68",
+      "nombre": "Plano de modelamiento hidráulico (nodos: cota terreno, cola piezométrica y  la presión, tramos  o redes: velocidad, diámetro, longitud)",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "69",
+      "nombre": "Plano de detalles de empalmes",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "70",
+      "nombre": "Plano de detalle de accesorios",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "71",
+      "nombre": "Plano de Conexiones Domiciliarias de Agua Potable",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "72",
+      "nombre": "Arquitectura:  Planos de distribución, elevación y corte de la infraestructura de tratamiento - Escala 1:100",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "73",
+      "nombre": "Estructuras: Planos de planta, elevación y detalle de las estructuras de los ambientes para tratamiento - Escala 1:100",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "74",
+      "nombre": "Plano de instalaciones eléctricas y equipo electromecánico",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "75",
+      "nombre": "Sistema de Alcantarillado y Planta de Tratamiento de Aguas Residuales (PTAR)",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "76",
+      "nombre": "Plano Clave del Sistema de Alcantarillado y PTAR",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "77",
+      "nombre": "Plano de Redes colectores y emisor o interceptor",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "78",
+      "nombre": "Plano de diagrama de flujo",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "79",
+      "nombre": "Planos de Perfiles Longitudinales y de sección de la red colectora y emisor o interceptor",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "80",
+      "nombre": "Plano de conexiones domiciliarias de alcantarillado",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "81",
+      "nombre": "Planos de PTAR",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "82",
+      "nombre": "Arquitectura:  Planos de distribución, elevación y corte de la infraestructura de tratamiento - Escala 1:100",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "83",
+      "nombre": "Planos de instalaciones eléctricas y electromecánicos",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    }
+  ],
+  "D - Presupuesto y Cronograma (Costo total, desagregado y tiempo de ejecución del proyecto)": [
+    {
+      "id": "84",
+      "nombre": "Cuadro de Resumen de Presupuesto",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "85",
+      "nombre": "Presupuesto de obra",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "86",
+      "nombre": "Presupuesto Desagregado",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "87",
+      "nombre": "Análisis de Gastos Generales",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "88",
+      "nombre": "Análisis de costos unitarios",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "89",
+      "nombre": "Planilla de metrados",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "90",
+      "nombre": "Relación de insumos generales y por grupos",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "91",
+      "nombre": "Fórmulas Polinómicas",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "92",
+      "nombre": "Cronograma Valorizado de ejecución de obra, Calendario de adquisición de materiales, Cronograma de Ejecución de Obras (MS PROJECT)",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "93",
+      "nombre": "Programa de ejecución de obras (PER-CPM)",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "Codigo Nacional de Electricidad,  RN Electricidad",
+        "EETT  Saneamiento": "RM-192-2018- VIVIENDA Y ANEXOS",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "100",
+      "nombre": "Total Documentos Mínimos por Tipo de Proyecto",
+      "normativas": {
+        "EETT  Edificación": "46",
+        "EETT  Electrificación": "36",
+        "EETT  Saneamiento": "51",
+        "EETT  Transportes": "37"
+      }
+    },
+    {
+      "id": "CONTENIDO MINIMO PARA EXPEDIENTES TECNICOS - PARA SALUD",
+      "nombre": "",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "Tipo de Obra: Hospital Categoría II-1",
+      "nombre": "",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "Denominación del PIP:",
+      "nombre": "",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "Código Unificado:",
+      "nombre": "",
+      "normativas": {
+        "EETT  Edificación": "NORMATIVA",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "Nº Orden \nde Doc.",
+      "nombre": "Listado de Documentos (Check-List)",
+      "normativas": {
+        "EETT  Edificación": "EETT  Salud-MINSA",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "1",
+      "nombre": "Tipo de Obra: Hospital Categoría II-1",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "2",
+      "nombre": "I.    RESUMEN EJECUTIVO",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "3",
+      "nombre": "1.   Índice General de la Documentación",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "4",
+      "nombre": "2.   Presupuesto Resumen",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "5",
+      "nombre": "3.   Desagregado de Gastos Generales",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "6",
+      "nombre": "4.   Listado de Planos por Especialidad",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "7",
+      "nombre": "5.   Plazo de Ejecución",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "8",
+      "nombre": "6.   Diagrama de GANTT",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "9",
+      "nombre": "7.   Programación PERT-CPM",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "10",
+      "nombre": "8.   Cronograma Valorizado",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "11",
+      "nombre": "9.   Listado del Equipo Mecánico Mínimo",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "12",
+      "nombre": "II.   ESTUDIOS BASICOS",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "13",
+      "nombre": "1.   Estudio de Levantamiento Topográfico",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "14",
+      "nombre": "2.   Plano de Levantamiento Topográfico",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "15",
+      "nombre": "3.   Estudio de Mecánica de Suelos con fines de cimentación",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "16",
+      "nombre": "4.   Expediente de Demolición ( si lo hubiera)",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "17",
+      "nombre": "5.   Documentos Generales",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "18",
+      "nombre": "6.   Estudio de Impacto Ambiental (EIA) o Plan de Manejo",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "19",
+      "nombre": "7.   Certificación de Inexistencia de Restos Arqueológicos (CIRA) o Plan de Monitoreo Arqueológico.",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "20",
+      "nombre": "8.   Fotos 3D – CD Animación 3D",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "21",
+      "nombre": "III. ARQUITECTURA-SEÑALETICA",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "22",
+      "nombre": "1.   Memoria Descriptiva de Arquitectura",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "23",
+      "nombre": "2.   Programa Médico Arquitectónico",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "24",
+      "nombre": "3.   Cuadro de Acabados",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "25",
+      "nombre": "4.   Memoria Descriptiva de Señalética",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "26",
+      "nombre": "5.   Especificaciones Técnicas por Partida",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "27",
+      "nombre": "6.   Presupuesto",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "28",
+      "nombre": "7.   Análisis de Precios Unitarios",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "29",
+      "nombre": "8.   Fórmula Polinómica",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "30",
+      "nombre": "9.   Listado de Insumos",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "31",
+      "nombre": "10. Planilla de Metrado",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "32",
+      "nombre": "11. Cotizaciones.",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "33",
+      "nombre": "12. Plano: Cartel de Obra",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "34",
+      "nombre": "IV.  ESTRUCTURAS",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "35",
+      "nombre": "1.   Memoria Descriptiva de Estructuras",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "36",
+      "nombre": "2.   Memoria de Cálculo de Estructuras",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "37",
+      "nombre": "3.   Especificaciones Técnicas por Partida",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "38",
+      "nombre": "4.   Presupuesto de Estructuras",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "39",
+      "nombre": "5.   Análisis de Precios Unitarios",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "40",
+      "nombre": "6.   Fórmula Polinómica",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "41",
+      "nombre": "7.   Listado de Insumos",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "42",
+      "nombre": "8.   Planilla de Metrados",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "43",
+      "nombre": "9.   Plano: Cartel de Obra",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "44",
+      "nombre": "10. Obras Provisionales",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "45",
+      "nombre": "11. Cotizaciones",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "46",
+      "nombre": "V.  INSTALACIONES SANITARIAS y EVACUACION DE AGUAS PLUVIALES",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "47",
+      "nombre": "1.   Memoria Descriptiva",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "48",
+      "nombre": "2.   Memoria de Cálculo",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "49",
+      "nombre": "3.   Especificaciones Técnicas",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "50",
+      "nombre": "4.   Especificaciones Técnicas Generales",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "51",
+      "nombre": "5.   Especificaciones Técnicas por Partida",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "52",
+      "nombre": "6.   Presupuesto",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "53",
+      "nombre": "7.   Análisis de Precios Unitarios",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "54",
+      "nombre": "8.   Fórmula Polinómica",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "55",
+      "nombre": "9.   Listado de Insumos",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "56",
+      "nombre": "10. Planilla de Metrados",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "57",
+      "nombre": "11. Cotizaciones",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "58",
+      "nombre": "VI.  INSTALACIONES ELECTRICAS",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "59",
+      "nombre": "1.   Memoria Descriptiva",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "60",
+      "nombre": "2.   Memoria de Cálculo - Máxima Demanda selección de Equipos",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "61",
+      "nombre": "3.   Memoria de Cálculo - Conductores y Tableros",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "62",
+      "nombre": "4.   Memoria de Cálculo – Sistema de Puesta a Tierra",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "63",
+      "nombre": "5.   Memoria de Cálculo – Iluminación",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "64",
+      "nombre": "6.   Cálculo Lumínico",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "65",
+      "nombre": "7.   Especificaciones Técnicas Generales",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "66",
+      "nombre": "8.   Especificaciones Técnicas por Partida",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "67",
+      "nombre": "9.   Presupuesto de Instalaciones Eléctricas",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "68",
+      "nombre": "10. Análisis de Precios Unitarios",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "69",
+      "nombre": "11. Fórmula Polinómica",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "70",
+      "nombre": "12. Listado de Insumos",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "71",
+      "nombre": "13. Planilla de Metrados",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "72",
+      "nombre": "14. Cotizaciones",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "73",
+      "nombre": "VII. COMUNICACIONES Y DATA",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "74",
+      "nombre": "1.   Memoria Descriptiva",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "75",
+      "nombre": "2.   Memoria de Cálculo",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "76",
+      "nombre": "3.   Especificaciones Técnicas Generales",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "77",
+      "nombre": "4.   Especificaciones Técnicas por Partida",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "78",
+      "nombre": "5.   Presupuesto",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "79",
+      "nombre": "6.   Análisis de Precios Unitarios",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "80",
+      "nombre": "7.   Fórmula Polinómica",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "81",
+      "nombre": "8.   Listado de Insumos",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "82",
+      "nombre": "9.   Planilla de Metrados",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "83",
+      "nombre": "10. Cotizaciones",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "84",
+      "nombre": "VIII.    INSTALACIONES ELECTRO-MECANICAS",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "85",
+      "nombre": "1.   Memoria Descriptiva de Aire Acondicionado",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "86",
+      "nombre": "2.   Memoria Descriptiva de Gases Medicinales",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "87",
+      "nombre": "3.   Memoria de Cálculo de Aire Acondicionado",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "88",
+      "nombre": "4.   Memoria de Cálculo de Gases Medicinales",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "89",
+      "nombre": "5.   Especificaciones Técnicas Generales de Aire Acondicionado",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "90",
+      "nombre": "6.   Especificaciones Técnicas Generales de Gases Medicinales.",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "91",
+      "nombre": "7.   Especificaciones Técnicas por Partida",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "92",
+      "nombre": "8.   Presupuesto",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "93",
+      "nombre": "9.   Análisis de Precios Unitarios",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "94",
+      "nombre": "10. Fórmula Polinómica",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "95",
+      "nombre": "11. Listado de Insumos",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "96",
+      "nombre": "12. Planilla de Metrados",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "97",
+      "nombre": "13. Cotizaciones",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "98",
+      "nombre": "IX.    EQUIPAMIENTO",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "99",
+      "nombre": "1.   Memoria Descriptiva de Equipamiento",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "100",
+      "nombre": "2.   Listado de equipos por ambiente",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "101",
+      "nombre": "3.   Metrados por grupo genérico",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "102",
+      "nombre": "4.   Presupuesto",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "103",
+      "nombre": "5.   Fórmula Polinómica",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "104",
+      "nombre": "6.   Especificaciones Técnicas de Equipamiento",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "105",
+      "nombre": "7.   Anexos",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "106",
+      "nombre": "8.   Cotizaciones",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "107",
+      "nombre": "X.     SEGURIDAD",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "108",
+      "nombre": "1.   Memoria Descriptiva y Cálculo",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "109",
+      "nombre": "2.   Especificaciones Técnicas",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "110",
+      "nombre": "3.   Plan de Seguridad y Evacuación",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "111",
+      "nombre": "4.   Plano de Bombeo",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "112",
+      "nombre": "5.   Planos de Seguridad y Evacuación",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "113",
+      "nombre": "6.   Planos de Seguridad- Señalización",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "114",
+      "nombre": "XI.    PLANOS",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "115",
+      "nombre": "1.   Plano de Planta general.",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "116",
+      "nombre": "2.   Planos de Arquitectura y detalles",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "117",
+      "nombre": "3.   Planos de Señalética",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "118",
+      "nombre": "4.   Planos de Estructuras",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "119",
+      "nombre": "5.   Planos de Inst. Sanitarias",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "120",
+      "nombre": "6.   Planos de Evacuación de Aguas Pluviales",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "121",
+      "nombre": "7.   Planos de Instalaciones Eléctricas",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "122",
+      "nombre": "8.   Planos de Instalaciones Comunicaciones y Data",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "123",
+      "nombre": "9.   Planos de Instalaciones Electro - Mecánicas – Aire Acondicionado",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "124",
+      "nombre": "10. Planos de instalación de gases medicinales.",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "125",
+      "nombre": "11. Planos de Equipamiento médico",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "126",
+      "nombre": "XII.  EXPEDIENTE DE MEDIA TENSIÓN",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    },
+    {
+      "id": "127",
+      "nombre": "Informe de Media Tensión",
+      "normativas": {
+        "EETT  Edificación": "",
+        "EETT  Electrificación": "",
+        "EETT  Saneamiento": "",
+        "EETT  Transportes": ""
+      }
+    }
+  ]
+}

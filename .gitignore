@@ -1,0 +1,9 @@
+output/
+__pycache__/
+*.pdf
+*.log
+*.aux
+*.out
+*.toc
+.streamlit/
+*.pyc

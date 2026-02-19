@@ -1,0 +1,494 @@
+{
+  "sector": "Salud",
+  "grupos": [
+    {
+      "letra": "A",
+      "nombre": "ESTUDIOS",
+      "items": [
+        {
+          "id": "1",
+          "nombre": "Revisión del perfil: pre-inversión que incluya el estudio de estimación de riesgos, viabilidad e identificación de los componentes",
+          "normativa": "Norma Técnica de Salud*"
+        },
+        {
+          "id": "2",
+          "nombre": "Estudio de Riesgos ante Desastres",
+          "normativa": "Norma Técnica de Salud* - 6.1.1.5"
+        },
+        {
+          "id": "3",
+          "nombre": "Certificación de Inexistencia de Restos Arqueológicos (CIRA) o Plan de Monitoreo Arqueológico",
+          "normativa": "Norma Técnica de Salud* - 6.1.1.5 Decreto Supremo N° 003-2014-MC, artículo 57"
+        },
+        {
+          "id": "4",
+          "nombre": "Gestión de riesgos en la ejecución de obra",
+          "normativa": "Directiva N° 012-2017-OSCE/CD"
+        },
+        {
+          "id": "5",
+          "nombre": "Análisis para el dimensionamiento de la necesidad (Estudio de demanda en los colegios, nivel de atención en salud, disponibilidad hídrica y dimensionamiento del proyecto)",
+          "normativa": "Norma Técnica de Salud* - 6.1.1.1"
+        },
+        {
+          "id": "6",
+          "nombre": "Predios: Actas de sesión de terrenos, pases, servidumbres u otro documento que muestre la aceptación de los propietarios (Verificar con SUNARP, COFOPRI, SBN, entre otros)",
+          "normativa": "Norma Técnica de Salud* - 6.1.1.2 Reglamento Nacional de Edificaciones - A.050, artículo 4, en cuanto a su accesibilidad: a), y b)."
+        },
+        {
+          "id": "7",
+          "nombre": "Estudio de Topografía",
+          "normativa": "Norma Técnica de Salud* - 6.1.1.3"
+        },
+        {
+          "id": "8",
+          "nombre": "Estudio de Suelos",
+          "normativa": "Norma Técnica de Salud* - 6.1.1.3"
+        },
+        {
+          "id": "9",
+          "nombre": "Estudios Hidrológicos de la zona (si la captación del agua es por pozos tubulares)",
+          "normativa": "Norma Técnica de Salud* - 6.1.1.1"
+        },
+        {
+          "id": "10",
+          "nombre": "Estudio de Tránsito",
+          "normativa": "Norma Técnica de Salud* - 6.1.1.2 Reglamento Nacional de Edificaciones - GH.020 y A.050"
+        },
+        {
+          "id": "11",
+          "nombre": "Infraestructura vial existente",
+          "normativa": "Norma Varios **"
+        },
+        {
+          "id": "12",
+          "nombre": "EIA o Programa de Adecuación de Manejo Ambiental (PAMA, DIA, etc)",
+          "normativa": "Norma Técnica de Salud* - 6.2.7"
+        },
+        {
+          "id": "13",
+          "nombre": "Expediente de Demolición para modificación de proyectos anteriores: demolición, diamantinas, reforzamiento con fibra de carbono, etc.",
+          "normativa": "Reglamento Nacional de Edificaciones - GE.040"
+        },
+        {
+          "id": "14",
+          "nombre": "Panel Fotográfico",
+          "normativa": "Norma Técnica de Salud* - Título VI"
+        }
+      ]
+    },
+    {
+      "letra": "B",
+      "nombre": "GENERALES",
+      "items": [
+        {
+          "id": "15",
+          "nombre": "Llenado del Formato N°08 - Excel actualizado (según actualizaciones de ET)",
+          "normativa": "Resolución Directoral N° 001-2019-EF/63.0 e Instructivo del Formato 8A"
+        },
+        {
+          "id": "16",
+          "nombre": "Resumen Ejecutivo",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Ficha Técnica (Datos relevantes del proyecto)",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Memoria Descriptiva",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Memoria de Cálculo",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Especificaciones técnicas",
+          "normativa": ""
+        },
+        {
+          "id": "17",
+          "nombre": "Plan de Vigilancia y Monitoreo para evitar la propagación del COVID-19",
+          "normativa": "Resolución Ministerial N° 448-2020-MINSA y sus modificatorias"
+        },
+        {
+          "id": "18",
+          "nombre": "Plan de Seguridad y Salud en el Trabajo",
+          "normativa": "Decreto Legislativo N° 1486  Directiva N° 005-2020-OSCE/CD"
+        }
+      ]
+    },
+    {
+      "letra": "C",
+      "nombre": "INGENIERÍA Y DETALLE",
+      "items": [
+        {
+          "id": "19",
+          "nombre": "Planos Generales",
+          "normativa": "Reglamento Nacional de Edificaciones - GE.020"
+        },
+        {
+          "id": "20",
+          "nombre": "Plano Clave: Plano de ubicación y localización, con coordenadas UTM",
+          "normativa": "Reglamento Nacional de Edificaciones - GE.020"
+        },
+        {
+          "id": "21",
+          "nombre": "Plano topográfico",
+          "normativa": "Reglamento Nacional de Edificaciones - GE.020"
+        },
+        {
+          "id": "22",
+          "nombre": "Listado de Planos por Especialidad",
+          "normativa": "Reglamento Nacional de Edificaciones - GE.020"
+        },
+        {
+          "id": "23",
+          "nombre": "Listado del Equipamiento y Equipo Mecánico Mínimo",
+          "normativa": "Norma Técnica de Salud*"
+        },
+        {
+          "id": "24",
+          "nombre": "Plano de Arquitectura",
+          "normativa": "Reglamento Nacional de Edificaciones - A.050"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Planta general (incluye ubicación con relación al perimétrico)",
+          "normativa": "Reglamento Nacional de Edificaciones - A.050"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Distribución",
+          "normativa": "Reglamento Nacional de Edificaciones - A.050"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Cortes y elevaciones",
+          "normativa": "Reglamento Nacional de Edificaciones - A.050"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Coberturas",
+          "normativa": "Reglamento Nacional de Edificaciones - A.050"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Distribución actual de corresponder",
+          "normativa": "Reglamento Nacional de Edificaciones - A.050"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de carpintería de Madera o Metálica",
+          "normativa": "Reglamento Nacional de Edificaciones - A.050"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Cuadro de Acabados",
+          "normativa": "Reglamento Nacional de Edificaciones - A.050"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de detalles en general",
+          "normativa": "Reglamento Nacional de Edificaciones - A.050"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de las obras de arte o estructuras especiales",
+          "normativa": "Reglamento Nacional de Edificaciones - A.050"
+        },
+        {
+          "id": "25",
+          "nombre": "Plano de Estructuras",
+          "normativa": "Reglamento Nacional de Edificaciones - E.030"
+        },
+        {
+          "id": "",
+          "nombre": "Planos de Cimentación (Zapatas, Cimientos sobre cimientos y otros)",
+          "normativa": "Reglamento Nacional de Edificaciones - E.030"
+        },
+        {
+          "id": "",
+          "nombre": "Planos de vigas y columnas",
+          "normativa": "Reglamento Nacional de Edificaciones - E.030"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de losas aligeradas  (de corresponder)",
+          "normativa": "Reglamento Nacional de Edificaciones - E.030"
+        },
+        {
+          "id": "26",
+          "nombre": "Planos de Instalaciones Eléctricas",
+          "normativa": "Reglamento Nacional de Edificaciones - EM.010"
+        },
+        {
+          "id": "27",
+          "nombre": "Plano del sistema de agua",
+          "normativa": "Reglamento Nacional de Edificaciones IS.010"
+        },
+        {
+          "id": "28",
+          "nombre": "Plano del sistema de desagüe sistema de tratamiento",
+          "normativa": "Reglamento Nacional de Edificaciones IS.010"
+        },
+        {
+          "id": "29",
+          "nombre": "Plano de sistema de evacuación pluvial",
+          "normativa": "Reglamento Nacional de Edificaciones IS.010"
+        },
+        {
+          "id": "30",
+          "nombre": "Instalaciones Electromecánicas",
+          "normativa": "Norma Técnica de Salud*"
+        },
+        {
+          "id": "",
+          "nombre": "Planos de Aire Acondicionado",
+          "normativa": "Norma ASHRAE"
+        },
+        {
+          "id": "",
+          "nombre": "Planos de Gases Medicinales",
+          "normativa": "Norma NFPA"
+        },
+        {
+          "id": "",
+          "nombre": "Planos de instalaciones electromecánicas",
+          "normativa": "Norma Técnica de Salud*"
+        },
+        {
+          "id": "31",
+          "nombre": "Planos de Seguridad y Evacuación",
+          "normativa": "NPT. 399.010-1-2015"
+        },
+        {
+          "id": "32",
+          "nombre": "Plan de Seguridad y Evacuación",
+          "normativa": "NPT. 399.010-1-2015"
+        },
+        {
+          "id": "33",
+          "nombre": "Planos de Seguridad y Señalización",
+          "normativa": "NPT. 399.010-1-2015"
+        },
+        {
+          "id": "34",
+          "nombre": "Planos de Instalaciones Comunicaciones y Data",
+          "normativa": "Norma Técnica de Salud*"
+        },
+        {
+          "id": "35",
+          "nombre": "Planos de Instalaciones Electro - Mecánicas – Aire Acondicionado",
+          "normativa": "Norma Técnica de Salud*"
+        },
+        {
+          "id": "36",
+          "nombre": "Equipamiento",
+          "normativa": "Norma Técnica de Salud*"
+        },
+        {
+          "id": "",
+          "nombre": "Listado de equipos por ambiente",
+          "normativa": ""
+        },
+        {
+          "id": "37",
+          "nombre": "Planos de Equipamiento médico",
+          "normativa": "Norma Técnica de Salud*"
+        },
+        {
+          "id": "",
+          "nombre": "Listado de equipos por ambiente",
+          "normativa": ""
+        },
+        {
+          "id": "38",
+          "nombre": "Expediente de Media Tensión",
+          "normativa": "Norma Técnica de Salud*"
+        },
+        {
+          "id": "",
+          "nombre": "Informe de Media Tensión",
+          "normativa": ""
+        }
+      ]
+    },
+    {
+      "letra": "D",
+      "nombre": "PRESUPUESTO Y CRONOGRAMA",
+      "items": [
+        {
+          "id": "39",
+          "nombre": "Cuadro de Resumen de Presupuesto",
+          "normativa": "Reglamento de la Ley de Contrataciones  Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "40",
+          "nombre": "Presupuesto de obra",
+          "normativa": "Reglamento Nacional de Metrados"
+        },
+        {
+          "id": "41",
+          "nombre": "Presupuesto Desagregado",
+          "normativa": "Reglamento de la Ley de Contrataciones  Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "42",
+          "nombre": "Análisis de Gastos Generales",
+          "normativa": "Reglamento de la Ley de Contrataciones  Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "43",
+          "nombre": "Análisis de costos unitarios",
+          "normativa": "Resolución Directoral N° 073-2010/VIVIENDA/VMCS-DNC"
+        },
+        {
+          "id": "44",
+          "nombre": "Planilla de metrados",
+          "normativa": "Resolución Directoral N° 073-2010/VIVIENDA/VMCS-DNC"
+        },
+        {
+          "id": "45",
+          "nombre": "Relación de insumos generales y por grupos",
+          "normativa": "Resolución Directoral N° 073-2010/VIVIENDA/VMCS-DNC"
+        },
+        {
+          "id": "46",
+          "nombre": "Fórmulas Polinómicas",
+          "normativa": "Reglamento de la Ley de Contrataciones"
+        },
+        {
+          "id": "47",
+          "nombre": "Cronograma Valorizado de ejecución de obra, Calendario de adquisición de materiales, Cronograma de Ejecución de Obras (MS PROJECT)",
+          "normativa": "Reglamento de la Ley de Contrataciones"
+        },
+        {
+          "id": "48",
+          "nombre": "Programa de ejecución de obras (PER-CPM)",
+          "normativa": "Reglamento de la Ley de Contrataciones"
+        },
+        {
+          "id": "*",
+          "nombre": "Los proyectos de salud se rigen en general a las Normas Técnicas de Salud (NTS)",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "NTS. N° 110-MINSA/DGIEM-V.01     -    2do Nivel",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "NTS. N° 113-MINSA/DGIEM-V.01     -    1er Nivel",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "NTS. N° 119-MINSA/DGIEM-V.01     -    3er Nivel",
+          "normativa": ""
+        },
+        {
+          "id": "**",
+          "nombre": "·         Ley N° 28611 Ley General del Ambiental",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         Ley N° 28245 Ley Marco del Sistema Nacional de Gestión Ambiental",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.S. N° 008-2005-PCM Reglamento de la Ley N° 28245",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         Ley N° 27446 Ley del Sistema Nacional de Evaluación de Impacto Ambiental",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.S. N° 019-2009-MINAM Reglamento de la Ley N° 27446",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         Ley N° 29325 Ley del Sistema Nacional de Evaluación y Fiscalización Ambiental",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         RCD N° 006-2018-OEFA/CD Tipifican infracciones administrativas y estableces escala de sanciones relacionadas con los Instrumentos de Gestión Ambiental.",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.S. N° 003-2017-MINAM Estándares de Calidad Ambiental (ECA) para Aire",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.S. N° 085-2003-PCM Estándares de Calidad Ambiental (ECA) para Ruido",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.S. N.° 004-2017-MINAM Estándares de Calidad Ambiental (ECA) para Agua",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.S. N.° 011-2017-MINAM Estándares de Calidad Ambiental (ECA) para Suelo",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.S. N° 043-2006-AG Aprueban categorización de especies amenazadas de flora silvestre",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.S. N° 004-2014-MINAGRI Actualización de lista de clasificación y categorización de las especies amenazadas de fauna silvestre",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.S. N.° 002-2009-MINAM Reglamento sobre Transparencia, Acceso a la Información Pública Ambiental y Participación y Consulta Ciudadana en Asuntos Ambientales",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.L. N° 1278 Ley de Gestión Integral de Residuos Sólidos",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.S. N° 014-2017-MINAM Reglamento del D.L. N° 1278",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         NTS N° 144-MINSA/2018/DIGESA Norma Técnica de Salud: “Gestión Integral y Manejo de Residuos Sólidos en Establecimientos de Salud, Servicios Médicos de Apoyo y Centros de Investigación”",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.S. N° 003-2013-VIVIENDA Reglamento para la Gestión y Manejo de los Residuos de las Actividades de la Construcción y Demolición",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "·         D.S. N° 003-2014-MC Reglamento de Intervenciones Arqueológicas",
+          "normativa": ""
+        }
+      ]
+    }
+  ]
+}

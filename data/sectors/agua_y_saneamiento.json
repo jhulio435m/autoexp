@@ -1,0 +1,329 @@
+{
+  "sector": "Agua Y Saneamiento",
+  "grupos": [
+    {
+      "letra": "A",
+      "nombre": "ESTUDIOS",
+      "items": [
+        {
+          "id": "1",
+          "nombre": "Revisión del perfil: pre-inversión que incluya el estudio de estimación de riesgos, viabilidad e identificación de los componentes",
+          "normativa": "Resolución Directoral N° 001-2019-EF/63.01 - Anexo N° 07"
+        },
+        {
+          "id": "2",
+          "nombre": "Estudio de Riesgos ante Desastres",
+          "normativa": "Resolución Directoral N° 001-2019-EF/63.01"
+        },
+        {
+          "id": "3",
+          "nombre": "Certificación de Inexistencia de Restos Arqueológicos (CIRA) o Plan de Monitoreo Arqueológico",
+          "normativa": "Decreto Supremo N° 054-2013-PCM  Decreto Supremo N °060-2013-PCM Decreto Supremo N° 003-2014-MC"
+        },
+        {
+          "id": "4",
+          "nombre": "Gestión de riesgos en la ejecución de obra",
+          "normativa": "Resolución Directoral N° 001-2019-EF/63.01 Clasificación de INDECI. Acciones identificadas en la evaluación del impacto ambiental"
+        },
+        {
+          "id": "5",
+          "nombre": "Análisis para el dimensionamiento de la necesidad (Estudio de demanda en los colegios, nivel de atención en salud, disponibilidad hídrica y dimensionamiento del proyecto)",
+          "normativa": "Reglamento Nacional de Edificaciones (Ámbito Urbano)  Resolución Ministerial N° 192-2018-VIVIENDA (Ámbito rural)"
+        },
+        {
+          "id": "6",
+          "nombre": "Predios: Actas de sesión de terrenos, pases, servidumbres u otro documento que muestre la aceptación de los propietarios (Verificar con SUNARP, COFOPRI, SBN, entre otros)",
+          "normativa": "Resolución Directoral N° 001-2019-EF/63.01 Normas de SUNARP, COFOPRI, Reglamento de la Ley de Contrataciones del Estado"
+        },
+        {
+          "id": "7",
+          "nombre": "Estudio de Topografía",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "8",
+          "nombre": "Estudio de Suelos",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "9",
+          "nombre": "Estudios Hidrológicos de la zona",
+          "normativa": "Resolución Jefatural N° 007-2015-ANA"
+        },
+        {
+          "id": "10",
+          "nombre": "Estudios Hidrológicos de la zona (si la captación del agua es por pozos tubulares)",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "11",
+          "nombre": "EIA o Programa de Adecuación de Manejo Ambiental (PAMA, DIA, etc)",
+          "normativa": "Decreto Supremo N° 020-2017-VIVIENDA. Clasificación anticipada en el marco del SEIA para el sector saneamiento Resolución Ministerial N° 372-2017-VIVIENDA"
+        },
+        {
+          "id": "12",
+          "nombre": "Expediente de Demolición para modificación de proyectos anteriores: demolición, diamantinas, reforzamiento con fibra de carbono, etc.",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "13",
+          "nombre": "Panel Fotográfico",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        }
+      ]
+    },
+    {
+      "letra": "B",
+      "nombre": "GENERALES",
+      "items": [
+        {
+          "id": "14",
+          "nombre": "Llenado del Formato N°08 - Excel actualizado (según actualizaciones de ET)",
+          "normativa": "Resolución Directoral N° 001-2019-EF/63.01 e Instructivo del Formato 8A"
+        },
+        {
+          "id": "15",
+          "nombre": "Resumen Ejecutivo",
+          "normativa": "Resolución Directoral N° 001-2019-EF/63.01"
+        },
+        {
+          "id": "",
+          "nombre": "Ficha Técnica (Datos relevantes del proyecto)",
+          "normativa": "Resolución Directoral N° 001-2019-EF/63.01"
+        },
+        {
+          "id": "",
+          "nombre": "Memoria Descriptiva",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Memoria de Cálculo",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Especificaciones técnicas",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "16",
+          "nombre": "Plan de Vigilancia y Monitoreo para evitar la propagación del COVID-19",
+          "normativa": "Resolución Ministerial N° 448-2020-MINSA y sus modificatorias."
+        },
+        {
+          "id": "17",
+          "nombre": "Plan de Seguridad y Salud en el Trabajo",
+          "normativa": "Decreto Legislativo N° 1486  Directiva N° 005-2020-OSCE/CD"
+        }
+      ]
+    },
+    {
+      "letra": "C",
+      "nombre": "INGENIERÍA Y DETALLE",
+      "items": [
+        {
+          "id": "18",
+          "nombre": "Planos Generales",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "19",
+          "nombre": "Plano Clave: Plano de ubicación y localización, con coordenadas UTM",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "20",
+          "nombre": "Plano del ámbito de influencia del proyecto, delimitado",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "21",
+          "nombre": "Plano Trazado y Lotización Aprobado por el GR/GL correspondiente",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "22",
+          "nombre": "Listado de Planos por Especialidad",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "23",
+          "nombre": "Sistema de Agua Potable",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Planta general (incluye ubicación con relación al perimétrico)",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Plano Clave de Sistema de Agua Potable",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Planos de componentes primarios (Línea de Conducción, Línea de Abastecimiento, Línea de impulsión:",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Planos de planta y perfil; Captación,  Planta de Tratamiento de Agua Potable (PTAP)",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "24",
+          "nombre": "Plano de Redes de Agua Potable",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de modelamiento hidráulico (nodos: cota terreno, cola piezométrica y  la presión, tramos  o redes: velocidad, diámetro, longitud)",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de detalles de empalmes",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de detalle de accesorios",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "25",
+          "nombre": "Plano de Conexiones Domiciliarias de Agua Potable",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Arquitectura:  Planos de distribución, elevación y corte de la infraestructura de tratamiento - Escala 1:100",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Estructuras: Planos de planta, elevación y detalle de las estructuras de los ambientes para tratamiento - Escala 1:100",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de instalaciones eléctricas y equipo electromecánico",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Sistema de Alcantarillado y Planta de Tratamiento de Aguas Residuales (PTAR)",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Plano Clave del Sistema de Alcantarillado y PTAR",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Redes colectores y emisor o interceptor",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de diagrama de flujo",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Planos de Perfiles Longitudinales y de sección de la red colectora y emisor o interceptor",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de conexiones domiciliarias de alcantarillado",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "26",
+          "nombre": "Planos de PTAR",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Arquitectura:  Planos de distribución, elevación y corte de la infraestructura de tratamiento - Escala 1:100",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Planos de instalaciones eléctricas y electromecánicos",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "27",
+          "nombre": "Instalaciones Electromecánicas",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "",
+          "nombre": "Planos de instalaciones electromecánicas",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        }
+      ]
+    },
+    {
+      "letra": "D",
+      "nombre": "PRESUPUESTO Y CRONOGRAMA",
+      "items": [
+        {
+          "id": "28",
+          "nombre": "Cuadro de Resumen de Presupuesto",
+          "normativa": "Reglamento de la Ley de Contrataciones Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "29",
+          "nombre": "Presupuesto de obra",
+          "normativa": "Reglamento Nacional de Metrados"
+        },
+        {
+          "id": "30",
+          "nombre": "Presupuesto Desagregado",
+          "normativa": "Reglamento de la Ley de Contrataciones Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "31",
+          "nombre": "Análisis de Gastos Generales",
+          "normativa": "Reglamento de la Ley de Contrataciones Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "32",
+          "nombre": "Análisis de costos unitarios",
+          "normativa": "Resolución Directoral N° 073-2010/VIVIENDA/VMCS-DNC"
+        },
+        {
+          "id": "33",
+          "nombre": "Planilla de metrados",
+          "normativa": "Resolución Directoral N° 073-2010/VIVIENDA/VMCS-DNC"
+        },
+        {
+          "id": "34",
+          "nombre": "Relación de insumos generales y por grupos",
+          "normativa": "Resolución Directoral N° 073-2010/VIVIENDA/VMCS-DNC"
+        },
+        {
+          "id": "35",
+          "nombre": "Fórmulas Polinómicas",
+          "normativa": "Reglamento de la Ley de Contrataciones Decreto Supremo N° 011-79-VC"
+        },
+        {
+          "id": "36",
+          "nombre": "Cronograma Valorizado de ejecución de obra, Calendario de adquisición de materiales, Cronograma de Ejecución de Obras (MS PROJECT)",
+          "normativa": "Reglamento de la Ley de Contrataciones"
+        },
+        {
+          "id": "37",
+          "nombre": "Programa de ejecución de obras (PER-CPM)",
+          "normativa": "Reglamento de la Ley de Contrataciones"
+        }
+      ]
+    }
+  ]
+}

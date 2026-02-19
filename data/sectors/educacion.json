@@ -1,0 +1,309 @@
+{
+  "sector": "Educacion",
+  "grupos": [
+    {
+      "letra": "A",
+      "nombre": "ESTUDIOS",
+      "items": [
+        {
+          "id": "1",
+          "nombre": "Revisión del perfil: pre-inversión que incluya el estudio de estimación de riesgos, viabilidad e identificación de los componentes",
+          "normativa": "Resolución Directoral N° 004-2019-EF/63.01 Instructivo de Ficha Estándar, Ficha Simplificada y Ficha Específica para IIEE inicial con 15 alumnos referenciales, aprobados por el sector educación"
+        },
+        {
+          "id": "2",
+          "nombre": "Estudio de Riesgos ante Desastres",
+          "normativa": "Resolución Jefatural N° 058-2020-CENEPRED/J"
+        },
+        {
+          "id": "3",
+          "nombre": "Certificación de Inexistencia de Restos Arqueológicos (CIRA) o Plan de Monitoreo Arqueológico",
+          "normativa": "Decreto Supremo N° 003-2014-MC"
+        },
+        {
+          "id": "4",
+          "nombre": "Gestión de riesgos en la ejecución de obra",
+          "normativa": "Resolución Directoral N° 004-2019-EF/63.01. Resolución Jefatural N° 058-2020-CENEPRED/J"
+        },
+        {
+          "id": "5",
+          "nombre": "Análisis para el dimensionamiento de la necesidad (Estudio de demanda en los colegios, nivel de atención en salud, disponibilidad hídrica y dimensionamiento del proyecto)",
+          "normativa": "Instructivo de Ficha Estándar, Ficha Simplificada y Ficha Específica para IIEE inicial con 15 alumnos referenciales, aprobados por el sector educación"
+        },
+        {
+          "id": "6",
+          "nombre": "Predios: Actas de sesión de terrenos, pases, servidumbres u otro documento que muestre la aceptación de los propietarios (Verificar con SUNARP, COFOPRI, DISAFIL, SBN, entre otros)",
+          "normativa": "Instructivo de Ficha Estándar, Ficha Simplificada y Ficha Específica para IIEE inicial con 15 alumnos referenciales, aprobados por el sector educación"
+        },
+        {
+          "id": "7",
+          "nombre": "Estudio de Topografía",
+          "normativa": "Resolución de Secretaría General N° 239-2018-MINEDU Instructivo de Ficha Estándar, Ficha Simplificada y Ficha Específica para IIEE inicial con 15 alumnos referenciales, aprobados por el sector educación"
+        },
+        {
+          "id": "8",
+          "nombre": "Estudio de Suelos",
+          "normativa": "Resolución de Secretaría General N° 239-2018-MINEDU Normas Técnicas para los servicios educativos:  Resolución Viceministerial N° 104-2019 (inicial) Resolución Viceministerial N° 208-2019 (primaria y secundaria) Resolución Viceministerial N° 056-2019 (básica especial y PRITE) Resolución Viceministerial N° 100-2020 (institutos)"
+        },
+        {
+          "id": "9",
+          "nombre": "Estudios Hidrológicos de la zona (si la captación del agua es por pozos tubulares)",
+          "normativa": "Resolución de Secretaría General N° 239-2018-MINEDU"
+        },
+        {
+          "id": "10",
+          "nombre": "Infraestructura vial existente",
+          "normativa": "Resolución de Secretaría General N° 239-2018-MINEDU"
+        },
+        {
+          "id": "11",
+          "nombre": "EIA o Programa de Adecuación de Manejo Ambiental (PAMA, DIA, etc)",
+          "normativa": "Ley Nº 27446 Resolución Directoral N° 004-2019-EF/63.01"
+        },
+        {
+          "id": "12",
+          "nombre": "Expediente de Demolición para modificación de proyectos anteriores: demolición, diamantinas, reforzamiento con fibra de carbono, etc.",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "13",
+          "nombre": "Panel Fotográfico",
+          "normativa": "Resolución Directoral N° 004-2019-EF/63.01 Instructivo de Ficha Estándar, Ficha Simplificada y Ficha Específica para IIEE inicial con 15 alumnos referenciales, aprobados por el sector educación"
+        }
+      ]
+    },
+    {
+      "letra": "B",
+      "nombre": "GENERALES",
+      "items": [
+        {
+          "id": "14",
+          "nombre": "Llenado del Formato N°08 - Excel actualizado (según actualizaciones de ET)",
+          "normativa": "Resolución Directoral N° 001-2019-EF/63.0 e Instructivo del Formato 8A"
+        },
+        {
+          "id": "15",
+          "nombre": "Resumen Ejecutivo",
+          "normativa": "Resolución de Secretaría General N° 239-2018-MINEDU Normas Técnicas para los servicios educativos:  Resolución Viceministerial N° 104-2019 (inicial) Resolución Viceministerial N° 208-2019 (primaria y secundaria) Resolución Viceministerial N° 056-2019 (básica especial y PRITE) Resolución Viceministerial N° 100-2020 (institutos)"
+        },
+        {
+          "id": "",
+          "nombre": "Ficha Técnica (Datos relevantes del proyecto)",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Memoria Descriptiva",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Memoria de Cálculo",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Especificaciones técnicas",
+          "normativa": ""
+        },
+        {
+          "id": "16",
+          "nombre": "Plan de Vigilancia y Monitoreo para evitar la propagación del COVID-19",
+          "normativa": "Resolución Ministerial N° 448-2020-MINSA y sus modificatorias"
+        },
+        {
+          "id": "17",
+          "nombre": "Plan de Seguridad y Salud en el Trabajo",
+          "normativa": "Decreto Legislativo N° 1486  Directiva N° 005-2020-OSCE/CD"
+        }
+      ]
+    },
+    {
+      "letra": "C",
+      "nombre": "INGENIERÍA Y DETALLE",
+      "items": [
+        {
+          "id": "18",
+          "nombre": "Planos Generales",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "19",
+          "nombre": "Plano Clave: Plano de ubicación y localización, con coordenadas UTM",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "20",
+          "nombre": "Plano topográfico",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "21",
+          "nombre": "Listado de Planos por Especialidad",
+          "normativa": "Reglamento Nacional de Edificaciones"
+        },
+        {
+          "id": "22",
+          "nombre": "Listado del Equipamiento y Equipo Mecánico Mínimo",
+          "normativa": "Normas Técnicas para los servicios educativos:  Resolución Viceministerial N° 104-2019 (inicial) Resolución Viceministerial N° 208-2019 (primaria y secundaria) Resolución Viceministerial N° 056-2019 (básica especial y PRITE) Resolución Viceministerial N° 100-2020 (institutos)"
+        },
+        {
+          "id": "23",
+          "nombre": "Plano de Arquitectura",
+          "normativa": "Reglamento Nacional de Edificaciones 'Resolución de Secretaría General N° 239-2018-MINEDU Normas Técnicas para los servicios educativos:  Resolución Viceministerial N° 104-2019 (inicial) Resolución Viceministerial N° 208-2019 (primaria y secundaria) Resolución Viceministerial N° 056-2019 (básica especial y PRITE) Resolución Viceministerial N° 100-2020 (institutos)"
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Planta general (incluye ubicación con relación al perimétrico)",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Distribución",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Cortes y elevaciones",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Coberturas",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Distribución actual de corresponder",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Plano de carpintería de Madera o Metálica",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Plano de Cuadro de Acabados",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Plano de detalles en general",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Plano de las obras de arte o estructuras especiales",
+          "normativa": ""
+        },
+        {
+          "id": "24",
+          "nombre": "Plano de Estructuras",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Planos de Cimentación (Zapatas, Cimientos sobre cimientos y otros)",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Planos de vigas y columnas",
+          "normativa": ""
+        },
+        {
+          "id": "",
+          "nombre": "Plano de losas aligeradas  (de corresponder)",
+          "normativa": ""
+        },
+        {
+          "id": "25",
+          "nombre": "Planos de Instalaciones Eléctricas",
+          "normativa": ""
+        },
+        {
+          "id": "26",
+          "nombre": "Plano del sistema de agua",
+          "normativa": ""
+        },
+        {
+          "id": "27",
+          "nombre": "Plano del sistema de desagüe sistema de tratamiento",
+          "normativa": ""
+        },
+        {
+          "id": "28",
+          "nombre": "Plano de sistema de evacuación pluvial",
+          "normativa": ""
+        },
+        {
+          "id": "29",
+          "nombre": "Equipamiento",
+          "normativa": "Normas Técnicas para los servicios educativos:  Resolución Viceministerial N° 104-2019 (inicial) Resolución Viceministerial N° 208-2019 (primaria y secundaria) Resolución Viceministerial N° 056-2019 (básica especial y PRITE) Resolución Viceministerial N° 100-2020 (institutos)"
+        },
+        {
+          "id": "",
+          "nombre": "Listado de equipos por ambiente",
+          "normativa": ""
+        }
+      ]
+    },
+    {
+      "letra": "D",
+      "nombre": "PRESUPUESTO Y CRONOGRAMA",
+      "items": [
+        {
+          "id": "30",
+          "nombre": "Cuadro de Resumen de Presupuesto",
+          "normativa": "Instructivo de la ficha técnica estándar y ejemplo llenado, aprobado por el sector educación (estimación de costos durante la fase de formulación del ciclo de inversiones)  https://www.mef.gob.pe/es/metodologias/metodologias-especificas/fichas-tecnicas-sectoriales."
+        },
+        {
+          "id": "31",
+          "nombre": "Presupuesto de obra",
+          "normativa": ""
+        },
+        {
+          "id": "32",
+          "nombre": "Presupuesto Desagregado",
+          "normativa": ""
+        },
+        {
+          "id": "33",
+          "nombre": "Análisis de Gastos Generales",
+          "normativa": ""
+        },
+        {
+          "id": "34",
+          "nombre": "Análisis de costos unitarios",
+          "normativa": ""
+        },
+        {
+          "id": "35",
+          "nombre": "Planilla de metrados",
+          "normativa": "Reglamento Nacional de Edificaciones 'Resolución de Secretaría General N° 239-2018-MINEDU Normas Técnicas para los servicios educativos:  Resolución Viceministerial N° 104-2019 (inicial) Resolución Viceministerial N° 208-2019 (primaria y secundaria) Resolución Viceministerial N° 056-2019 (básica especial y PRITE) Resolución Viceministerial N° 100-2020 (institutos)"
+        },
+        {
+          "id": "36",
+          "nombre": "Relación de insumos generales y por grupos",
+          "normativa": ""
+        },
+        {
+          "id": "37",
+          "nombre": "Fórmulas Polinómicas",
+          "normativa": ""
+        },
+        {
+          "id": "38",
+          "nombre": "Cronograma Valorizado de ejecución de obra, Calendario de adquisición de materiales, Cronograma de Ejecución de Obras (MS PROJECT)",
+          "normativa": ""
+        },
+        {
+          "id": "39",
+          "nombre": "Programa de ejecución de obras (PER-CPM)",
+          "normativa": ""
+        }
+      ]
+    }
+  ]
+}
