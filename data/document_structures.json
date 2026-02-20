@@ -1,0 +1,131 @@
+{
+  "transporte": {
+    "resumen_ejecutivo": {
+      "titulo": "Resumen Ejecutivo",
+      "id_referencia": "resumen_ejecutivo",
+      "descripcion": "Síntesis gerencial basada en la portada del Informe Final",
+      "secciones": [
+        {
+          "id": "identificacion_proyecto",
+          "label": "IDENTIFICACIÓN DEL PROYECTO",
+          "campos": [
+            {"id": "nombre_proyecto", "label": "Nombre del proyecto", "type": "textarea"},
+            {"id": "n_informe", "label": "N° de Informe", "type": "text"},
+            {"id": "subcomponente", "label": "Subcomponente al cual corresponde", "type": "text"},
+            {"id": "banco_cofinancia", "label": "Nombre del Banco que cofinancia", "type": "text"}
+          ]
+        },
+        {
+          "id": "ubicacion_consultor",
+          "label": "UBICACIÓN Y CONSULTORÍA",
+          "subsecciones": [
+            {
+              "id": "localizacion",
+              "label": "LOCALIZACIÓN",
+              "campos": [
+                {"id": "ubicacion_desc", "label": "Ubicación (Distritos/Provincias)", "type": "text"},
+                {"id": "regiones", "label": "Regiones", "type": "text"}
+              ]
+            },
+            {
+              "id": "datos_consultor",
+              "label": "DATOS DEL CONSULTOR",
+              "campos": [
+                {"id": "nombre_consultor", "label": "Nombre del consultor", "type": "text"},
+                {"id": "n_contrato", "label": "N° del Contrato", "type": "text"}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "memoria_descriptiva": {
+      "titulo": "Memoria Descriptiva",
+      "id_referencia": "memoria_descriptiva",
+      "secciones": [
+        {
+          "id": "1_generalidades",
+          "label": "1 GENERALIDADES",
+          "subsecciones": [
+            {
+              "id": "1_1_introduccion",
+              "label": "1.1 Introducción",
+              "campos": [{"id": "intro_txt", "label": "Contenido de Introducción", "type": "textarea"}]
+            },
+            {
+              "id": "1_2_antecedentes",
+              "label": "1.2 Antecedentes",
+              "campos": [{"id": "ante_txt", "label": "Contenido de Antecedentes", "type": "textarea"}]
+            },
+            {
+              "id": "1_3_ubicacion",
+              "label": "1.3 Ubicación",
+              "campos": [{"id": "ubic_txt", "label": "Contenido de Ubicación (Tramos/Cuadros)", "type": "textarea"}]
+            },
+            {
+              "id": "1_4_acceso",
+              "label": "1.4 Acceso a la vía",
+              "campos": [{"id": "acc_txt", "label": "Rutas de acceso (Terrestre/Aérea)", "type": "textarea"}]
+            },
+            {
+              "id": "1_5_alcance",
+              "label": "1.5 Alcance",
+              "campos": [{"id": "alc_txt", "label": "Alcance de los estudios", "type": "textarea"}]
+            },
+            {
+              "id": "1_6_desc_area",
+              "label": "1.6 Descripción del área de trabajo",
+              "campos": [{"id": "area_txt", "label": "Descripción física del área", "type": "textarea"}]
+            },
+            {
+              "id": "1_7_recursos",
+              "label": "1.7 Recursos utilizados",
+              "campos": [{"id": "rec_txt", "label": "Personal y equipos", "type": "textarea"}]
+            }
+          ]
+        },
+        {
+          "id": "2_bases_legales",
+          "label": "2 BASES LEGALES Y NORMATIVAS",
+          "campos": [{"id": "base_legal_txt", "label": "Marco Normativo", "type": "textarea"}]
+        },
+        {
+          "id": "3_desarrollo_estudios",
+          "label": "3 DESARROLLO DE LOS ESTUDIOS",
+          "subsecciones": [
+            {
+              "id": "3_1_inventario",
+              "label": "3.1 INVENTARIO VIAL",
+              "campos": [{"id": "inv_vial_txt", "label": "Resultados del Inventario", "type": "textarea"}]
+            },
+            {
+              "id": "3_2_trafico",
+              "label": "3.2 ESTUDIO DE TRÁFICO",
+              "campos": [{"id": "trafico_txt", "label": "Resultados del IMD y Velocidades", "type": "textarea"}]
+            },
+            {
+              "id": "3_3_topografia",
+              "label": "3.3 TOPOGRAFÍA, TRAZO Y DISEÑO GEOMÉTRICO",
+              "campos": [{"id": "topo_txt", "label": "Trazo y Diseño Vial", "type": "textarea"}]
+            },
+            {
+              "id": "3_4_hidrologia",
+              "label": "3.4 HIDROLOGÍA Y DRENAJE",
+              "campos": [{"id": "hidro_txt", "label": "Estudio Hidráulico y Bombeo", "type": "textarea"}]
+            },
+            {
+              "id": "3_5_suelos",
+              "label": "3.5 SUELOS, CANTERAS, FUENTES DE AGUA Y DISEÑO DE PAVIMENTO",
+              "campos": [{"id": "suelos_txt", "label": "CBR y Estructura de Pavimento", "type": "textarea"}]
+            }
+          ]
+        },
+        {
+          "id": "4_estado_terrenos",
+          "label": "4 ESTADO DE SITUACIÓN DE LA DISPONIBILIDAD DEL TERRENO",
+          "campos": [{"id": "terr_txt", "label": "Disponibilidad de vía y áreas auxiliares", "type": "textarea"}]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+\documentclass{expediente}
+\usepackage[table,xcdraw]{xcolor}
+
+\begin{document}
+
+% 1. Portada Reutilizable
+[% include "templates/common/portada.tex" %]
+
+% 2. Índice
+\clearpage
+\tableofcontents
+\clearpage
+
+% 3. Datos Generales
+[% include "templates/common/datos_generales.tex" %]
+
+% 4. Contenido Específico (Dinámico)
+\section*{MEMORIA DESCRIPTIVA}
+[% set memoria_path = "templates/sectors/" ~ sector_slug ~ "/" ~ area_slug ~ "/memoria_descriptiva.tex" %]
+[% include memoria_path ignore missing %]
+
+% 5. Lista de Documentos Seleccionados
+\section*{REQUISITOS DEL EXPEDIENTE}
+\begin{itemize}
+[% for doc in seleccionados %]
+    \item [[ doc.nombre ]]
+[% endfor %]
+\end{itemize}
+
+\end{document}

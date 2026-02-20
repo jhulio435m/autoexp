@@ -10,14 +10,20 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     texlive-lang-spanish \
     poppler-utils \
     build-essential \
+    libpq-dev \
+    postgresql-client \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 
-RUN pip install --no-cache-dir streamlit pandas jinja2 Pillow
+# Añadimos fastapi, uvicorn y pydantic
+RUN pip install --no-cache-dir fastapi uvicorn pydantic python-multipart pandas jinja2 Pillow psycopg2-binary pytest
 
 COPY . /app
 
-EXPOSE 8501
+# Heisenberg: Forzar permisos de ejecución al copiar
+COPY --chmod=755 entrypoint.sh /app/entrypoint.sh
 
-CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+EXPOSE 8000
+
+ENTRYPOINT ["/app/entrypoint.sh"]
